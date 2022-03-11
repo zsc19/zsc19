@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zsc19
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning Task-oriented Dialogue System
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :1294847555@qq.com
+- 📫 How to reach me :zhousichi2021@gmail.com
 
 <!---
 zsc19/zsc19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
