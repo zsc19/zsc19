@@ -1,8 +1,10 @@
- 👋 Hi, I’m Sichi Zhou
+ Hi there 👋 I’m Sichi Zhou.
 
-- 🌱 I’m currently learning Task-oriented Dialogue System
+- 🌱 I’m currently learning Spoken Language Understanding.
 
-- 📫 How to reach me :zhousichi2021@gmail.com
+- 📫 How to reach me :zhousichi2021@gmail.com.
+- 
+- 👀 I’m interested in 《大决战》, 《恰同学少年》.
 
 <!---
 zsc19/zsc19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
