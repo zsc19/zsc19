@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sichi Zhou
+ 👋 Hi, I’m Sichi Zhou
 
 - 🌱 I’m currently learning Task-oriented Dialogue System
 
