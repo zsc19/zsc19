@@ -4,7 +4,7 @@
 
 - 📫 How to reach me :zhousichi2021@gmail.com.
  
-- 👀 I’m interested in 《大决战》, 《恰同学少年》.
+- 👀 I’m interested in history, like 《大决战》, 《恰同学少年》.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsc19)](https://github.com/anuraghazra/github-readme-stats)
 <!---
