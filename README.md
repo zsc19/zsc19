@@ -1,4 +1,4 @@
-** Hi! I’m Jingyi Zhou.**
+## Hi! I’m Jingyi Zhou.
 
 - 🌱 My main research interests are NLP and Spoken Language Understanding.
 
