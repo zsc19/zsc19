@@ -1,10 +1,12 @@
- Hi there 👋 I’m Sichi Zhou.
+** Hi! I’m Jingyi Zhou.**
 
-- 🌱 I’m currently learning Spoken Language Understanding.
+- 🌱 My main research interests are NLP and Spoken Language Understanding.
 
-- 📫 How to reach me :zhousichi2021@gmail.com.
+- ⚡ Hobbies: history, movie.
  
-- 👀 I’m interested in modern history, and I love to watch 《恰同学少年》, 《我们的法兰西岁月》, 《大决战》系列.
+- 👀 但有能耐艰苦劳顿，不惜己身而为国家者，修远求索，上下而欲觅同道者，皆吾之所求也。故曰：愿嘤鸣以求友，敢步将伯之呼。
+  
+- 📫 How to reach me :zhousichi2021@gmail.com.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsc19)](https://github.com/anuraghazra/github-readme-stats)
 <!---
